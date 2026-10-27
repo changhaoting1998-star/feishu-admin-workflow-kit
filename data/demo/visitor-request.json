@@ -1,0 +1,9 @@
+{
+  "id": "demo_visitor_001",
+  "applicantId": "demo_user_a",
+  "hostId": "demo_user_host",
+  "visitorDisplayName": "访客甲",
+  "organization": "示例合作方",
+  "purpose": "演示交流",
+  "scheduledAt": "2099-08-08T02:00:00.000Z"
+}
